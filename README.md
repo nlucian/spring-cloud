@@ -1,4 +1,4 @@
-# Spring-Cloud App
+# Spring-Cloud Dummy Application
 
 
 
